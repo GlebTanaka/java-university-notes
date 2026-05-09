@@ -62,7 +62,7 @@ java/
 
 | File | Status |
 |------|--------|
-| `01-interfaces-exceptions.md` | pending |
+| `01-interfaces-exceptions.md` | done |
 | `02-classes-enums.md` | pending |
 | `03-maven.md` | pending |
 | `04-collections.md` | pending |
