@@ -19,7 +19,7 @@ Migrate raw text notes into clean, English-language Markdown files organized by 
 | 7 | Mocking | Mocking | 3735–4700 | `07-mocking.md` |
 | 8 | Threads | Threads & Concurrency | 4701–6356 | `08-threads-concurrency.md` |
 | 9 | Lambda-Ausdrücke + Streams | Lambdas & Streams | 6357–7903 | `09-lambdas-streams.md` |
-| 10 | I/O Streams, Serialisierung | I/O Streams & Serialization | 7904–10008 | `10-io-serialization.md` |
+| 10 | I/O Streams, Serialisierung + Template/Factory Entwurfsmuster 1 | I/O Streams, Serialization & Design Patterns 1 | 7904–10008 | `10-io-serialization.md` |
 | 12 | Observer und MVC - Entwurfsmuster 2 | Observer & MVC Patterns | 10009–11319 | `11-observer-mvc.md` |
 | 13 | JavaFX | JavaFX | 11320–12853 | `12-javafx.md` |
 | 14 | Oberflächen mit FXML | JavaFX with FXML | 12854–13788 | `13-javafx-fxml.md` |
@@ -71,7 +71,7 @@ java/
 | `07-mocking.md` | done |
 | `08-threads-concurrency.md` | done |
 | `09-lambdas-streams.md` | done |
-| `10-io-serialization.md` | pending |
+| `10-io-serialization.md` | done |
 | `11-observer-mvc.md` | pending |
 | `12-javafx.md` | pending |
 | `13-javafx-fxml.md` | pending |
