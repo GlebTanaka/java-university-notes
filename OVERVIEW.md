@@ -73,6 +73,6 @@ java/
 | `09-lambdas-streams.md` | done |
 | `10-io-serialization.md` | done |
 | `11-observer-mvc.md` | done |
-| `12-javafx.md` | pending |
+| `12-javafx.md` | done |
 | `13-javafx-fxml.md` | pending |
 | `14-design-patterns.md` | pending |
