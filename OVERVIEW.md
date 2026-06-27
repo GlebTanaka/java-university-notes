@@ -74,5 +74,5 @@ java/
 | `10-io-serialization.md` | done |
 | `11-observer-mvc.md` | done |
 | `12-javafx.md` | done |
-| `13-javafx-fxml.md` | pending |
-| `14-design-patterns.md` | pending |
+| `13-javafx-fxml.md` | done |
+| `14-design-patterns.md` | done |
